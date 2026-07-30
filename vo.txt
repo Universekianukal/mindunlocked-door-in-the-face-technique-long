@@ -1,0 +1,45 @@
+In 1975, psychologists got total strangers to agree to a favor 3X more often — just by asking for something outrageous first and getting rejected on purpose.
+
+In 1975, Robert Cialdini ran a study where researchers asked college students to commit to volunteering for a community service programme for two hours per week — for two full years. Obviously, almost everyone refused.
+
+Then the researchers followed up with a much smaller request: would you chaperon a group of juvenile delinquents on a one-day zoo trip?
+
+50% of people who had refused the big request agreed to the zoo trip.
+
+When the zoo trip was asked cold — without the prior big request — only 17% agreed.
+
+The only difference was the sequence. Ask huge. Get rejected. Ask small. The yes rate went from 17% to 50%.
+
+The door-in-the-face technique (DITF) is a compliance strategy in which an initial, large request is made with the expectation that it will be refused — and then a smaller, more reasonable request follows. The contrast between the two requests increases the likelihood that the second request will be accepted.
+
+The name comes from the image of a salesperson who knocks on a door, makes an outrageous pitch, gets the door slammed in their face — and then immediately makes a more reasonable offer that, in comparison, feels entirely fair.
+
+The technique was formally studied by Cialdini and colleagues in 1975, building on his broader framework of influence, which he later published in his landmark 1984 book Influence: The Psychology of Persuasion.
+
+The mechanism behind DITF is what Cialdini called reciprocal concession — a specific form of the broader principle of reciprocity.
+
+When the requester steps back from their large demand to a smaller one, the listener perceives this as a concession. Social norms around reciprocity create an implicit obligation to match that concession with a concession of your own — which in this context means moving from "no" to "yes."
+
+The requester gave something up (their big ask). Now you feel social pressure to give something back (your agreement to the smaller ask). The feeling isn't fully conscious. But it's powerful enough to shift behaviour measurably.
+
+Importantly, the contrast effect also operates: after hearing a request for two years of volunteering, a one-day zoo trip feels trivially small. The evaluation of the second request is entirely relative to the first. Remove the first, and the zoo trip is judged against the listener's baseline level of convenience — and often rejected.
+
+DITF is used across negotiation, retail, and interpersonal dynamics — often without the user consciously knowing the technique.
+
+Car dealerships start with the full-price vehicle before introducing financing packages and trade-in options. The final deal, measured against the initial price, always looks like a concession.
+
+In salary negotiation: experienced negotiators often anchor with a high initial salary request — not because they expect it, but because the subsequent revised ask will be perceived as reasonable by contrast.
+
+In retail: the jacket that's $800, marked down from $1,400, looks like a bargain — even if $800 is, by most measures, expensive. The marked-down price is a concession. The original price is the door.
+
+In personal relationships: "I need you to come to every family gathering for the rest of the year" is rejected. "Can you just come to Christmas?" succeeds. The latter request was always the real one. The former was the door.
+
+To use DITF ethically: the large initial request should be genuinely relevant to what you want — not a manipulation from out of nowhere. If the big ask and the real ask are logically connected, the technique works and maintains trust. If they're disconnected, it can feel manipulative and damage the relationship.
+
+To defend against it: when you receive a second, "more reasonable" request after refusing a larger one, pause before responding. Ask yourself: "Would I agree to this request if it had been the first thing asked?" If the answer is no — if you're only considering it because you feel like you're getting a deal — you're in a reciprocal concession response and not an evaluation of the actual request.
+
+The protection isn't to always refuse second requests. It's to evaluate each request on its own terms, not relative to what came before.
+
+The door-in-the-face technique works because it gives the requester a structural advantage over your evaluation process. The first request sets a frame. The second request is evaluated inside that frame, not against an independent standard. Knowing this doesn't make you immune — the social pressure of reciprocity is real. But it gives you the pause that lets you choose whether you're complying because you genuinely want to, or because the sequence manufactured the yes.
+
+Drop a comment — has someone used door-in-the-face on you without you realising it? In a negotiation, a personal relationship, anywhere? And subscribe — new psychology breakdown every week.
